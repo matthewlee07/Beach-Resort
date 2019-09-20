@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { RoomContext } from "../context";
 import Loading from "./Loading";
-import Room from "../components/Rooms";
+import Room from "../components/Room";
 import Title from "./Title";
 
 class FeaturedRooms extends Component {
