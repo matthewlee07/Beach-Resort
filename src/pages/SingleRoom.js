@@ -40,7 +40,7 @@ class SingleRoom extends Component {
       pets,
       images
     } = room;
-    const [mainImg, ...defaultImg] = images;
+    const [mainImg] = images;
 
     return (
       <>
