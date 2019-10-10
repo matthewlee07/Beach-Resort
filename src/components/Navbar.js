@@ -31,6 +31,8 @@ class Navbar extends Component {
           >
             <li>
               <Link to="/">Home</Link>
+            </li>
+            <li>
               <Link to="/rooms">Rooms</Link>
             </li>
           </ul>
